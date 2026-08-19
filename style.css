@@ -2,4 +2,23 @@
     background-color: #1D2545;
     padding: 2rem;
     text-align: center;
+    height: 230px;
+}
+
+.hero-text{
+    color: #FFFFFF;
+    font-family: 'Jomhuria', serif;
+    font-size: 150px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.hero-subtext{
+    color: #FFFFFF;
+    font-family: 'Jomhuria', serif;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 10px;
 }
