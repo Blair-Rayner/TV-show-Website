@@ -46,25 +46,25 @@
     line-height: auto;
 }
 
-.section-two-column-2{
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 50px;
-    align-items: center;
-    padding: 50px 80px;
-}
 
 .section-two-column-2 {
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 3fr 1fr;
     gap: 50px;
     align-items: center;
     padding: 50px 80px;
 }
 
 .section-two-column-2 .image img {
-    width: 70%;
+    width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
+}
+
+.section-two-column-2 .text {
+    color: #000000;
+    font-family: 'Jomhuria', serif;
+    font-size: 45px;
+    line-height: auto;
 }
