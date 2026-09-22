@@ -52,6 +52,12 @@ html{
     margin: 0 auto;
 }
 
+.menu a:hover{
+    background-color: #FFFFFF;
+    color: #1D2545;
+    transition: 0.3s;
+}
+
 .menu-section{
     background-color: #ffffff;
     padding: 20px;
