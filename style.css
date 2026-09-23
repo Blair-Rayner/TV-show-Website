@@ -85,6 +85,14 @@ html{
     margin: 0;
 }
 
+.rating{
+    color: #F1B301;
+    font-family: 'Jomhuria', serif;
+    font-size: 30px;
+    font-weight: normal;
+    margin: 0;
+}
+
 .section-two-column{
     display: grid;
     grid-template-columns: 1fr 3fr;
