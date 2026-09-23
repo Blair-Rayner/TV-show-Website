@@ -85,11 +85,19 @@ html{
     margin: 0;
 }
 
+.h2{
+    margin: 0;
+}
+
 .rating{
     color: #F1B301;
     font-family: 'Jomhuria', serif;
     font-size: 30px;
     font-weight: normal;
+    margin: 5px 0 20px;
+}
+
+.description{
     margin: 0;
 }
 
