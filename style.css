@@ -154,3 +154,22 @@ h2 {
 .section-two-column-2 img:hover {
     transform: scale(1.5);
 }
+
+
+.end-section h1 {
+    text-align: center;
+    font-family: 'Jomhuria', serif;
+    font-size: 60px;
+    color: #1D2545;
+    margin-bottom: 20px;
+}
+
+.end-section h3 {
+    text-align: center;
+    font-family: 'Jomhuria', serif;
+    font-size: 30px;
+    color: #1D2545;
+    margin-bottom: 20px;
+}
+
+.
