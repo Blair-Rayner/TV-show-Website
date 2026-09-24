@@ -155,21 +155,35 @@ h2 {
     transform: scale(1.5);
 }
 
+.end-section {
+    background-color: #1D2545;
+    padding: 50px 20px;
+    text-align: center;
+    box-sizing: border-box;
+}
 
 .end-section h1 {
     text-align: center;
-    font-family: 'Jomhuria', serif;
-    font-size: 60px;
-    color: #1D2545;
+    font-family: 'montserrat', sans-serif;
+    font-size: 30px;
+    color: #FFFFFF;
     margin-bottom: 20px;
 }
 
 .end-section h3 {
     text-align: center;
-    font-family: 'Jomhuria', serif;
-    font-size: 30px;
-    color: #1D2545;
+    font-family: 'montserrat', sans-serif;
+    font-size: 18px;
+    color: #FFFFFF;
     margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
-.
+.end-section small {
+    display: block;
+    text-align: center;
+    font-family: montserrat, sans-serif;
+    font-size: 10px;
+    color: #999ba2;
+}
