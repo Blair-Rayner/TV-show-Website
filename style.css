@@ -29,6 +29,17 @@ html{
     margin: -13px 0 0;
 }
 
+#searchBar {
+    width: 350px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin-top: 15px;
+    outline: none;
+}
+
 .white-space{
     height: 50px;
 }
@@ -186,4 +197,24 @@ h2 {
     font-family: montserrat, sans-serif;
     font-size: 10px;
     color: #999ba2;
+    margin-top: 20px;
+}
+
+.back-to-top a {
+    display: block;
+    text-decoration: none;
+    color: #1D2545;
+    background-color: #ffffff;
+    font-family: 'Jomhuria', serif;
+    padding: 8px 25px;
+    font-size: 35px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.back-to-top a:hover {
+    background-color: #ffffff;
+    color: #F1B301;
+    transition: 0.3s;
 }
